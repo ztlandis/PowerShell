@@ -1,0 +1,1 @@
+Set-ItemProperty -Path “HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System” -Name “EnableLinkedConnections” -Type DWord -Value 1
